@@ -1,6 +1,6 @@
 a. Name: Anjali Shirva
 
-b. USC ID: 5334984894
+b. Project - Socket Programming
 
 c. What I have done in the assignment:
 
@@ -40,7 +40,7 @@ g.The project fails under following conditions.
   2. Input file with data of type float or strings.
   3. Input file other than csv and when total count of the file elements is not the multiple of 3.
  
-h. Reused Code: Yes, I have referred beej tutorial and internet (https://www.youtube.com/watch?v=eVYsIolL2gE&list=PLGvfHSgImk4bJ7TfqJjrYHy8m3YKbGj5D) and used the code                 parts of echo server and client in my program(in send() and recv () calls) 
+
  
 
 	
